@@ -37,8 +37,8 @@ function ProductDetail() {
             </div>
 
             <div className='size-container'>
-                size
-                <SizeRow sizes={['S', 'M']}/>
+                Size
+                <SizeRow sizes={['S', 'M', 'L']}/>
             </div>
 
             <div className='tab-container'>

@@ -7,7 +7,7 @@ function Footer() {
         </div>
 
         <div className='secondary'>
-        <SecondaryButton title='Pay with G Pay' />
+        <SecondaryButton title='Pay with Apple Pay' />
         </div>
     </div>;
 }

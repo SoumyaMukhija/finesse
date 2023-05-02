@@ -2,6 +2,13 @@
 
 A UI-UX improvement of finesse.us
 
+## How to run
+
+1. In finesse-app, go to cmd and run 
+        npm run
+2. Simultaneously in a different terminal, navigate to finesse-server and run
+        yarn run
+
 ## Issues in the current mobile-app
 
 Currently, the products page of the finesse.us mobile app is difficult to navigate due to the counterintuitive design where the action buttons are placed far apart, the font-style is difficult to read. The product is not the highlight of the page due to the abundance of text and other elements on it.

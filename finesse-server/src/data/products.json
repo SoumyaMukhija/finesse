@@ -1,0 +1,39 @@
+[
+    {
+        "productId": "1",
+        "title": "Trisha Vegan Leather Mini Dress",
+        "price": "45",
+        "sizes": ["S", "M", "L"],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0237/3346/9261/products/file_902ce25d-f18a-419c-bf1e-ccf5465fb569_1100x.jpg?v=1674953392",
+            "https://cdn.shopify.com/s/files/1/0237/3346/9261/products/file_4e0cef6c-9c9e-4379-bfce-c84b5b142158_1100x.jpg?v=1674953391",
+            "https://cdn.shopify.com/s/files/1/0237/3346/9261/products/file_715756b4-872f-484d-9970-a58d9677f912_1100x.jpg?v=1674953392"
+
+        ],
+        "desc": "It's getting hot in here 🥵 Be a little firecracker in this red corset-styled mini dress - sometimes you just have to pop off 💥",
+        "meta": {
+            "model": "Casey is 5'11 and is wearing a size S",
+            "material": "100% Polyurethane Lining: 100% Polyester",
+            "shipping": "Within the US, the estimated transit period is 6-11 business days, depending on the delivery address."
+        }
+    },
+
+    {
+        "productId": "2",
+        "title": "Belle Black Mini Dress",
+        "price": "48.50",
+        "sizes": ["1X", "2X", "4X"],
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0237/3346/9261/products/BELLE-FRONT_1100x.jpg?v=1674907331",
+            "https://cdn.shopify.com/s/files/1/0237/3346/9261/products/3D-Set-Back_150dcab2-bd9f-46b7-9003-a52dc9f300e2_1100x.jpg?v=1674907326",
+            "https://cdn.shopify.com/s/files/1/0237/3346/9261/products/3D-Set-Side_80143c48-e227-4ac9-8fe6-ed02b112ec95_1100x.jpg?v=1674907322"
+
+        ],
+        "desc": "Strut those streets like you own them 💅🏼 A little black dress is an essential, only this time its elevated 🖤",
+        "meta": {
+            "model": "Aliyah is 5'9 and is wearing a size S",
+            "material": "97% Cotton 3% Spandex Lining:100% Polyester",
+            "shipping": "Within the US, the estimated transit period is 6-11 business days, depending on the delivery address."
+        }
+    }
+]

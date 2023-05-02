@@ -5,8 +5,11 @@ A UI-UX improvement of finesse.us
 ## How to run
 
 1. In finesse-app, go to cmd and run 
+        
         npm run
+        
 2. Simultaneously in a different terminal, navigate to finesse-server and run
+        
         yarn run
 
 ## Issues in the current mobile-app
